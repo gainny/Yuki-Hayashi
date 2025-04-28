@@ -14,7 +14,7 @@ I'm a Front-End Developer passionate about building beautiful and functional web
 - [Scoreboard App](https://gainny.github.io/scoreboard-project/)
 
 ## 📫 Contact
-- Email: your.email@example.com
+- Email: yuukishayashi@gmail.com
 - LinkedIn: [Yuki Hayashi](https://www.linkedin.com/in/yuki-hayashi0126/)
 
 Thanks for visiting my profile!
